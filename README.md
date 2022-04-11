@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <div align="center">
 	<img align="center" src="/github-metrics.svg" width=400>
 	<img align="center" src="/github-metrics-2.svg" width=400>
-	<a href="https://github.com/JakeyGilly/">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JakeyGilly&show_icons=true&theme=dark&title_color=green&count_private=true&size=" width=400/>
+	<a href="https://github.com/Natnel92460/">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natnel92460&show_icons=true&theme=dark&title_color=green&count_private=true&size=" width=400/>
 	</a>
-	<a href="https://github.com/JakeyGilly/">
-	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JakeyGilly&theme=dark&date_format=j%20M%5B%20Y%5D" width=400/>
+	<a href="https://github.com/Natnel92460/">
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Natnel92460&theme=dark&date_format=j%20M%5B%20Y%5D" width=400/>
 	</a>
 </div>
 
